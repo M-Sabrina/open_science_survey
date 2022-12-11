@@ -1,0 +1,11 @@
+name: open_science_survey
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - matplotlib
+  - numpy
+  - jupyterlab
+  - pandas
+  - openpyxl
