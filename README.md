@@ -6,7 +6,7 @@ In 2022, the first Open Science Team of the Faculty of Applied Sciences at Delft
 
 https://zenodo.org/record/7641319
 
-To learn about what employees of the [Bionanoscience Department](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/bionanoscience/) think about Open Science, the team set up an[online survey](https://forms.office.com/Pages/ShareFormPage.aspx?id=TVJuCSlpMECM04q0LeCIe-3wSGs-_lBMr0ffBOc-gfVUNkIxQkREQ1k2T0lEWU5aUTE2SFpSUVk2SC4u&sharetoken=8BV2n7Ku1pbt0RtackUU) on the topic, which was made available from 03/11/2022 to 02/12/2022.
+To learn about what employees of the [Bionanoscience Department](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/bionanoscience/) think about Open Science, the team set up an [online survey](https://forms.office.com/Pages/ShareFormPage.aspx?id=TVJuCSlpMECM04q0LeCIe-3wSGs-_lBMr0ffBOc-gfVUNkIxQkREQ1k2T0lEWU5aUTE2SFpSUVk2SC4u&sharetoken=8BV2n7Ku1pbt0RtackUU) on the topic, which was made available from 03/11/2022 to 02/12/2022.
 
 The terminology used within this survey can be found [here](https://estherplomp.github.io/TNW-OST-Survey).
 
@@ -14,9 +14,9 @@ The questions asked within the survey as well as the anonymized answers can be f
 Further, this repository contains a Jupyter notebook *Survey_results.ipynb*. The notebook analyses and graphically represents the data contained within the data sheet.
 To run the notebook, clone the repository to your local machine and follow the instruction below to set up the required Python environment:
 
-- Open folder in terminal
-- Create environment with `conda env create --file environment.yml --force`
-- Activate environment with `conda activate open_science_survey`
+- Open local folder in terminal
+- Create the environment with `conda env create --file environment.yml --force`
+- Activate the environment with `conda activate open_science_survey`
 - Run jupyter lab with `jupyter lab`
 - In jupyter lab, open file *Survey_results.ipynb* and follow instructions there
 
