@@ -2,7 +2,7 @@
 
 [Open Science](https://www.unesco.org/en/open-science) is a term that is increasingly more used and applied in research practices. Moreover, Open Science practices are also increasingly required by research funders.
 
-In 2022, the first Open Science Team of the Faculty of Applied Sciences at Delft University of Technology was established, with members from different departments as well as career stages. The team conducted a series of surveys and meetings, aiming to examine which types of support would be the most useful for improving Open Science practises within the faculties' individual departments. The conclusions drawn from this effort were summarized and can be found in the following publicly available repository on Zenodo:
+In 2022, the first Open Science Team of the Faculty of Applied Sciences at Delft University of Technology was established, with members from different departments as well as career stages. The team conducted a series of surveys and meetings, aiming to examine which types of support would be the most useful for improving Open Science practises within the faculties' individual departments. The conclusions drawn from this effort were summarized and can be found in the following open repository on Zenodo:
 
 https://zenodo.org/record/7641319
 
