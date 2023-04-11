@@ -6,9 +6,7 @@ In 2022, the first Open Science Team of the Faculty of Applied Sciences at Delft
 
 https://zenodo.org/record/7641319
 
-To learn about what employees of the [Bionanoscience Department](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/bionanoscience/) think about Open Science, the team set up an [online survey](https://forms.office.com/Pages/ShareFormPage.aspx?id=TVJuCSlpMECM04q0LeCIe-3wSGs-_lBMr0ffBOc-gfVUNkIxQkREQ1k2T0lEWU5aUTE2SFpSUVk2SC4u&sharetoken=8BV2n7Ku1pbt0RtackUU) on the topic, which was made available from 03/11/2022 to 02/12/2022.
-
-The terminology used within this survey can be found [here](https://estherplomp.github.io/TNW-OST-Survey).
+To learn about what employees of the [Bionanoscience Department](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/bionanoscience/) think about Open Science, the team set up an [online survey](https://forms.office.com/Pages/ShareFormPage.aspx?id=TVJuCSlpMECM04q0LeCIe-3wSGs-_lBMr0ffBOc-gfVUNkIxQkREQ1k2T0lEWU5aUTE2SFpSUVk2SC4u&sharetoken=8BV2n7Ku1pbt0RtackUU) on the topic, which was made available from 03/11/2022 to 02/12/2022. The terminology used within this survey can be found [here](https://estherplomp.github.io/TNW-OST-Survey).
 
 The questions asked within the survey as well as the anonymized answers can be found in the data sheet *Open_Science_Survey_BN_cln.xlsx* contained within this repository.
 Further, this repository contains a Jupyter notebook *Survey_results.ipynb*. The notebook analyses and graphically represents the data contained within the data sheet.
