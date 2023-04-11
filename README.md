@@ -12,7 +12,7 @@ The questions asked within the survey as well as the anonymized answers can be f
 Further, this repository contains a Jupyter notebook *Survey_results.ipynb*. The notebook analyses and graphically represents the data contained within the data sheet.
 To run the notebook, clone the repository to your local machine and follow the instruction below to set up the required Python environment:
 
-- Open local folder in terminal
+- Open your local folder in a terminal
 - Create the environment with `conda env create --file environment.yml --force`
 - Activate the environment with `conda activate open_science_survey`
 - Run jupyter lab with `jupyter lab`
