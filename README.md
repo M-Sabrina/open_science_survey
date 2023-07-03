@@ -1,5 +1,7 @@
 # Open Science Survey
 
+[![DOI](https://zenodo.org/badge/576887981.svg)](https://zenodo.org/badge/latestdoi/576887981)
+
 ## Introduction
 
 In 2022, the first Open Science Team of the Faculty of Applied Sciences at Delft University of Technology was established, including members from different departments and career stages. The team conducted a series of surveys and meetings, aiming to examine which types of support would be the most useful for improving Open Science practises within the faculty's individual departments.
