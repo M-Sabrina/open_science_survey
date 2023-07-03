@@ -21,7 +21,11 @@ Notably, this repository contains a Jupyter notebook *Survey_results.ipynb*. The
 
 ## Run the notebook
 
-To run the notebook, clone the repository to your local machine and follow the instruction below to set up the required Python environment:
+The notebook can be run in Binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/M-Sabrina/open_science_survey/HEAD?labpath=Survey_results.ipynb)
+
+To run the notebook locally, clone the repository to your local machine and follow the instruction below to set up the required Python environment:
 
 - Open your local folder in a terminal
 - Create the environment with `conda env create --file environment.yml --force`
