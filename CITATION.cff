@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Meindlhumer"
+  given-names: "Sabrina"
+  orcid: "https://orcid.org/0000-0001-7607-0521"
+- family-names: "Plomp"
+  given-names: "Esther"
+  orcid: "https://orcid.org/0000-0003-3625-1357"
+title: "open_science_survey"
+version: 1.0.0
+doi: 10.5281/zenodo.8110922
+date-released: 2023-07-03
+url: "https://github.com/M-Sabrina/open_science_survey"
